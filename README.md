@@ -25,5 +25,6 @@ python pip install cryptography
 Открыть терминал и прописать команду:
 
 ```
+cd password_manager
 python manage.py runserver
 ```
