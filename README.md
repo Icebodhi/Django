@@ -28,3 +28,9 @@ python pip install cryptography
 cd password_manager
 python manage.py runserver
 ```
+## Использование
+
+Зайти на сайт
+```
+http://127.0.0.1:8000/create-password/
+```
